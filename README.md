@@ -11,7 +11,7 @@
 > :rocket: **Projeto com abordagens de OO e aplicações em Java.**
 
 ## UML Class Diagram / Diagrama de Classe UML
-<img src="https://github.com/Maiconrq/INMTE/blob/main/InmteUMLDiagram.png" alt="UMLDiagram" width="550"/>
+<img src="https://github.com/lramon2001/INMTE/blob/main/INMTE.png" alt="UMLDiagram" width="550"/>
 
 ## Project Kanban / Kanban do Projeto
 
