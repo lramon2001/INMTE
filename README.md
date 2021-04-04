@@ -39,3 +39,4 @@
 
 ## License / Licença
 [MIT License](https://github.com/Maiconrq/INMTE/blob/main/LICENSE) © [Maicon Rodrigues](https://github.com/Maiconrq)
+[MIT License](https://github.com/lramon2001/INMTE/blob/main/LICENSE) © [Lucas Ramon](https://github.com/lramon2001)
