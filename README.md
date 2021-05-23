@@ -20,9 +20,9 @@
 > **para ver o que estamos implementando no momento é só clicar [Neste link](https://trello.com/b/8oqCnlLg/inmte) para ver nosso Kanban**
 
 ## Versioning / Versionamento
-- This project does not follow any versioning requirements.
+- This project follows the [release] model for versioning.
 
-> **Esse projeto não segue nenhum requisito de versionamento.**
+> **Esse projeto segue o modelo de [releases]para versionamento.**
 
 
 ## Contributing / Contribuindo
