@@ -18,7 +18,7 @@
 - Java 11;
 - JDK 11;
 - Apache Netbeans;
-- 
+
 ## Contributing / Contribuindo
 
 - Want to contribute? [Follow this recommendations](./CONTRIBUTING.md):  
