@@ -13,6 +13,24 @@
 
 > :rocket: **Projeto com abordagens de OO e aplicações em Java.**
 
+
+## Built with / Feito com
+- Java 11;
+- JDK 11;
+- Apache Netbeans;
+- 
+## Contributing / Contribuindo
+
+- Want to contribute? [Follow this recommendations](./CONTRIBUTING.md):  
+
+> **Pretende contribuir? [Siga esses passos](./CONTRIBUTING.md):**
+
+## Versioning / Versionamento
+- This project follows the [release](https://github.com/lramon2001/INMTE/releases) model for versioning.
+
+> **Esse projeto segue o modelo de [releases](https://github.com/lramon2001/INMTE/releases) para versionamento.**
+
+
 ## UML Class Diagram / Diagrama de Classe UML
 <img src="https://github.com/lramon2001/INMTE/blob/main/INMTE.png" alt="UMLDiagram" width="550"/>
 
@@ -22,18 +40,6 @@
 
 > **para ver o que estamos implementando no momento é só clicar [Neste link](https://trello.com/b/8oqCnlLg/inmte) para ver nosso Kanban**
 
-## Versioning / Versionamento
-- This project follows the [release](https://github.com/lramon2001/INMTE/releases) model for versioning.
-
-> **Esse projeto segue o modelo de [releases](https://github.com/lramon2001/INMTE/releases) para versionamento.**
-
-
-## Contributing / Contribuindo
-
-- Want to contribute? [Follow this recommendations](./CONTRIBUTING.md):  
-
-> **Pretende contribuir? [Siga esses passos](./CONTRIBUTING.md):**
-
 
 ## History / História
 - See [Commit changes](https://github.com/Maiconrq/INMTE/commits/main) for details.
@@ -42,4 +48,5 @@
 
 ## License / Licença
 [MIT License](https://github.com/Maiconrq/INMTE/blob/main/LICENSE) © [Maicon Rodrigues](https://github.com/Maiconrq)
+
 [MIT License](https://github.com/lramon2001/INMTE/blob/main/LICENSE) © [Lucas Ramon](https://github.com/lramon2001)
