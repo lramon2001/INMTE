@@ -20,9 +20,9 @@
 > **para ver o que estamos implementando no momento é só clicar [Neste link](https://trello.com/b/8oqCnlLg/inmte) para ver nosso Kanban**
 
 ## Versioning / Versionamento
-- This project follows the [release] model for versioning.
+- This project follows the [release](https://github.com/lramon2001/INMTE/releases) model for versioning.
 
-> **Esse projeto segue o modelo de [releases]para versionamento.**
+> **Esse projeto segue o modelo de [releases](https://github.com/lramon2001/INMTE/releases) para versionamento.**
 
 
 ## Contributing / Contribuindo
