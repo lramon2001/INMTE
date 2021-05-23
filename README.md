@@ -1,10 +1,13 @@
 
 
 # INMTE
-[![Série](https://img.shields.io/badge/Maiconrq-INMTE-orange)](https://github.com/Maiconrq/INMTE)
-[![Série](https://img.shields.io/badge/lramon2001-INMTE-orange)](https://github.com/lramon2001/INMTE)
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/Maiconrq/INMTE/blob/main/LICENSE)
 ![language](https://img.shields.io/badge/java-only-yellow)
+![project](https://img.shields.io/badge/project-INMTE-red)
+
+## Contributors / Colaboradores
+[![Série](https://img.shields.io/badge/Maiconrq-UnB-blue)](https://github.com/Maiconrq/INMTE)
+[![Série](https://img.shields.io/badge/lramon2001-INMTE-green)](https://github.com/lramon2001/INMTE)
 
 :rocket: Project with OO approaches and Java applications. 
 
